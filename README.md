@@ -25,5 +25,5 @@ python app.py
 - Ollama (local LLM)
 - Gradio (web interface)
 
-- ## Demo
+## Demo
 ![Demo](demo.png)
