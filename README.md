@@ -24,3 +24,6 @@ python app.py
 - LangChain + ChromaDB (RAG pipeline)
 - Ollama (local LLM)
 - Gradio (web interface)
+
+- ## Demo
+![Demo](demo.png)
