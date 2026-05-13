@@ -3,6 +3,9 @@
 A RAG-based question answering system for Beyond-Diagonal Reconfigurable 
 Intelligent Surfaces (BD-RIS) research papers.
 
+## Demo
+![Demo](demo.png)
+
 ## Features
 - Upload BD-RIS related PDF papers
 - Ask questions in natural language
@@ -25,5 +28,3 @@ python app.py
 - Ollama (local LLM)
 - Gradio (web interface)
 
-## Demo
-![Demo](demo.png)
