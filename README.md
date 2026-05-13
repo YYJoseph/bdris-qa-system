@@ -1,3 +1,14 @@
+---
+title: BD-RIS QA System
+emoji: 📡
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: "4.0.0"
+app_file: app.py
+pinned: false
+---
+
 # BD-RIS Technical Paper QA System
 
 A RAG-based question answering system for Beyond-Diagonal Reconfigurable 
